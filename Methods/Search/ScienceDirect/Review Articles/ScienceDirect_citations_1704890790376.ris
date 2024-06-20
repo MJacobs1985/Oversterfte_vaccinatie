@@ -1,0 +1,720 @@
+TY  - JOUR
+T1  - Serum CK-MB, COVID-19 severity and mortality: An updated systematic review and meta-analysis with meta-regression
+AU  - Zinellu, Angelo
+AU  - Sotgia, Salvatore
+AU  - Fois, Alessandro G.
+AU  - Mangoni, Arduino A.
+JO  - Advances in Medical Sciences
+VL  - 66
+IS  - 2
+SP  - 304
+EP  - 314
+PY  - 2021
+DA  - 2021/09/01/
+SN  - 1896-1126
+DO  - https://doi.org/10.1016/j.advms.2021.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S189611262100033X
+KW  - Creatine kinase-MB
+KW  - Creatine kinase-MB values Above the normal range
+KW  - COVID-19
+KW  - Disease severity
+KW  - Mortality
+AB  - Objectives
+We conducted a systematic review and meta-analysis with meta-regression of creatine kinase-MB (CK-MB), a biomarker of myocardial injury, in COVID-19 patients.
+Methods
+We searched PubMed, Web of Science and Scopus, for studies published between January 2020 and January 2021 that reported CK-MB, COVID-19 severity and mortality (PROSPERO registration number: CRD42021239657).
+Results
+Fifty-five studies in 11,791 COVID-19 patients were included in the meta-analysis. The pooled results showed that CK-MB concentrations were significantly higher in patients with high disease severity or non-survivor status than patients with low severity or survivor status (standardized mean difference, SMD, 0.81, 95% CI 0.61 to 1.01, p<0.001). The rate of patients with CK-MB values above the normal range was also significantly higher in the former than the latter (60/350 vs 98/1,780; RR ​= ​2.84, 95%CI 1.89 to 4.27, p<0.001; I2 ​= ​19.9, p ​= ​0.254). Extreme between-study heterogeneity was observed (I2 ​= ​93.4%, p<0.001). Sensitivity analysis, performed by sequentially removing each study and re-assessing the pooled estimates, showed that the magnitude and direction of the effect size was not modified (effect size range, 0.77 to 0.84). Begg's (p ​= ​0.50) and Egger's (p ​= ​0.86) t-tests did not show publication bias. In meta-regression analysis, the SMD was significantly and positively associated with the white blood count, aspartate aminotransferase, myoglobin, troponin, brain natriuretic peptide, lactate dehydrogenase, and D-dimer.
+Conclusions
+Higher CK-MB concentrations were significantly associated with severe disease and mortality in COVID-19 patients. This biomarker of myocardial injury might be useful for risk stratification in this group.
+ER  - 
+
+TY  - JOUR
+T1  - A minimal common outcome measure set for COVID-19 clinical research
+AU  - Marshall, John C
+AU  - Murthy, Srinivas
+AU  - Diaz, Janet
+AU  - Adhikari, N K
+AU  - Angus, Derek C
+AU  - Arabi, Yaseen M
+AU  - Baillie, Kenneth
+AU  - Bauer, Michael
+AU  - Berry, Scott
+AU  - Blackwood, Bronagh
+AU  - Bonten, Marc
+AU  - Bozza, Fernando
+AU  - Brunkhorst, Frank
+AU  - Cheng, Allen
+AU  - Clarke, Mike
+AU  - Dat, Vu Quoc
+AU  - de Jong, Menno
+AU  - Denholm, Justin
+AU  - Derde, Lennie
+AU  - Dunning, Jake
+AU  - Feng, Xiaobin
+AU  - Fletcher, Tom
+AU  - Foster, Nadine
+AU  - Fowler, Rob
+AU  - Gobat, Nina
+AU  - Gomersall, Charles
+AU  - Gordon, Anthony
+AU  - Glueck, Thomas
+AU  - Harhay, Michael
+AU  - Hodgson, Carol
+AU  - Horby, Peter
+AU  - Kim, YaeJean
+AU  - Kojan, Richard
+AU  - Kumar, Bharath
+AU  - Laffey, John
+AU  - Malvey, Denis
+AU  - Martin-Loeches, Ignacio
+AU  - McArthur, Colin
+AU  - McAuley, Danny
+AU  - McBride, Stephen
+AU  - McGuinness, Shay
+AU  - Merson, Laura
+AU  - Morpeth, Susan
+AU  - Needham, Dale
+AU  - Netea, Mihai
+AU  - Oh, Myoung-Don
+AU  - Phyu, Sabai
+AU  - Piva, Simone
+AU  - Qiu, Ruijin
+AU  - Salisu-Kabara, Halima
+AU  - Shi, Lei
+AU  - Shimizu, Naoki
+AU  - Sinclair, Jorge
+AU  - Tong, Steven
+AU  - Turgeon, Alexis
+AU  - Uyeki, Tim
+AU  - van de Veerdonk, Frank
+AU  - Webb, Steve
+AU  - Williamson, Paula
+AU  - Wolf, Timo
+AU  - Zhang, Junhua
+JO  - The Lancet Infectious Diseases
+VL  - 20
+IS  - 8
+SP  - e192
+EP  - e197
+PY  - 2020
+DA  - 2020/08/01/
+SN  - 1473-3099
+DO  - https://doi.org/10.1016/S1473-3099(20)30483-7
+UR  - https://www.sciencedirect.com/science/article/pii/S1473309920304837
+AB  - Summary
+Clinical research is necessary for an effective response to an emerging infectious disease outbreak. However, research efforts are often hastily organised and done using various research tools, with the result that pooling data across studies is challenging. In response to the needs of the rapidly evolving COVID-19 outbreak, the Clinical Characterisation and Management Working Group of the WHO Research and Development Blueprint programme, the International Forum for Acute Care Trialists, and the International Severe Acute Respiratory and Emerging Infections Consortium have developed a minimum set of common outcome measures for studies of COVID-19. This set includes three elements: a measure of viral burden (quantitative PCR or cycle threshold), a measure of patient survival (mortality at hospital discharge or at 60 days), and a measure of patient progression through the health-care system by use of the WHO Clinical Progression Scale, which reflects patient trajectory and resource use over the course of clinical illness. We urge investigators to include these key data elements in ongoing and future studies to expedite the pooling of data during this immediate threat, and to hone a tool for future needs.
+ER  - 
+
+TY  - JOUR
+T1  - Post-COVID syndrome, inflammation, and diabetes
+AU  - Rizvi, Ali A.
+AU  - Kathuria, Amita
+AU  - Al Mahmeed, Wael
+AU  - Al-Rasadi, Khalid
+AU  - Al-Alawi, Kamila
+AU  - Banach, Maciej
+AU  - Banerjee, Yajnavalka
+AU  - Ceriello, Antonio
+AU  - Cesur, Mustafa
+AU  - Cosentino, Francesco
+AU  - Galia, Massimo
+AU  - Goh, Su-Yen
+AU  - Janez, Andrej
+AU  - Kalra, Sanjay
+AU  - Kempler, Peter
+AU  - Lessan, Nader
+AU  - Lotufo, Paulo
+AU  - Papanas, Nikolaos
+AU  - Santos, Raul D.
+AU  - Stoian, Anca P.
+AU  - Toth, Peter P.
+AU  - Viswanathan, Vijay
+AU  - Rizzo, Manfredi
+JO  - Journal of Diabetes and its Complications
+VL  - 36
+IS  - 11
+SP  - 108336
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 1056-8727
+DO  - https://doi.org/10.1016/j.jdiacomp.2022.108336
+UR  - https://www.sciencedirect.com/science/article/pii/S1056872722002483
+KW  - COVID-19
+KW  - SARS CoV-2
+KW  - Type 2 diabetes
+KW  - Newly diagnosed diabetes
+KW  - New-onset diabetes
+KW  - Post-COVID syndrome
+KW  - Long COVID
+KW  - Syndemia
+AB  - The raging COVID-19 pandemic is in its third year of global impact. The SARS CoV 2 virus has a high rate of spread, protean manifestations, and a high morbidity and mortality in individuals with predisposing risk factors. The pathophysiologic mechanisms involve a heightened systemic inflammatory state, cardiometabolic derangements, and varying degrees of glucose intolerance. The latter can be evident as significant hyperglycemia leading to new-onset diabetes or worsening of preexisting disease. Unfortunately, the clinical course beyond the acute phase of the illness may persist in the form of a variety of symptoms that together form the so-called “Long COVID” or “Post-COVID Syndrome”. It is thought that a chronic, low-grade inflammatory and immunologic state persists during this phase, which may last for weeks or months. Although numerous insights have been gained into COVID-related hyperglycemia and diabetes, its prediction, course, and management remain to be fully elucidated.
+ER  - 
+
+TY  - JOUR
+T1  - When Two Pandemics Meet: Why Is Obesity Associated with Increased COVID-19 Mortality?
+AU  - Lockhart, Sam M.
+AU  - O’Rahilly, Stephen
+JO  - Med
+VL  - 1
+IS  - 1
+SP  - 33
+EP  - 42
+PY  - 2020
+DA  - 2020/12/18/
+SN  - 2666-6340
+DO  - https://doi.org/10.1016/j.medj.2020.06.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2666634020300106
+AB  - Summary
+A growing body of evidence indicates that obesity is strongly and independently associated with adverse outcomes of COVID-19, including death. By combining emerging knowledge of the pathological processes involved in COVID-19 with insights into the mechanisms underlying the adverse health consequences of obesity, we present some hypotheses regarding the deleterious impact of obesity on the course of COVID-19. These hypotheses are testable and could guide therapeutic and preventive interventions. As obesity is now almost ubiquitous and no vaccine for COVID-19 is currently available, even a modest reduction in the impact of obesity on mortality and morbidity from this viral infection could have profound consequences for public health.
+ER  - 
+
+TY  - JOUR
+T1  - COVID-19 mortality as a fingerprint of biological age
+AU  - Polidori, M. Cristina
+AU  - Sies, Helmut
+AU  - Ferrucci, Luigi
+AU  - Benzing, Thomas
+JO  - Ageing Research Reviews
+VL  - 67
+SP  - 101308
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 1568-1637
+DO  - https://doi.org/10.1016/j.arr.2021.101308
+UR  - https://www.sciencedirect.com/science/article/pii/S1568163721000556
+KW  - Biological age
+KW  - Corona virus disease 2019
+KW  - COVID-19
+KW  - Frailty
+KW  - Severe acute respiratory syndrome-corona virus 2
+KW  - SARS-CoV-2
+AB  - Corona virus disease 2019 (COVID-19) is a global emergency able to overwhelm the healthcare capacities worldwide and to affect the older generation especially. When addressing the pathophysiological mechanisms and clinical manifestations of COVID-19, it becomes evident that the disease targets pathways and domains affected by the main aging- and frailty-related pathophysiological changes. A closer analysis of the existing data supports a possible role of biological age rather than chronological age in the prognosis of COVID-19. There is a need for systematic, consequent action of identifying frail (not only older, not only multimorbid, not only symptomatic) persons at risk of poor outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review of excess all-cause mortality estimation studies in India during COVID-19 pandemic
+AU  - Kumar Yadav, Arun
+AU  - Ahmed, Tarannum
+AU  - Dumka, Neha
+AU  - Singh, Sumeet
+AU  - Pathak, Vineet
+AU  - Kotwal, Atul
+JO  - Medical Journal Armed Forces India
+VL  - 79
+IS  - 5
+SP  - 506
+EP  - 515
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0377-1237
+DO  - https://doi.org/10.1016/j.mjafi.2023.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0377123723000217
+KW  - Excess mortality
+KW  - COVID -19
+KW  - Systematic review
+KW  - All-cause mortality
+AB  - Mortality statistics are fundamental to understand the magnitude of the COVID-19 pandemic. Due to limitation of real-time data availability, researchers had used mathematical models to estimate excess mortality globally during COVID-19 pandemic. As they demonstrated variations in scope, assumptions, estimations, and magnitude of the pandemic, and hence raised a controversy all over the world. This paper aims to review the mathematical models and their estimates of mortality due to COVID-19 in the Indian context. The PRISMA and SWiM guidelines were followed to the best possible extent. A twostep search strategy was used to identify studies that estimated excess deaths from January 2020 to December 2021 on Medline, Google Scholar, MedRxiv and BioRxiv available until 0100 h, 16 May 2022 (IST).We selected 13 studies based on a predefined criteria and extracted data on a standardised, pre-piloted form by two investigators, independently. Any discordance was resolved through consensus with a senior investigator. Estimated excess mortality was analysed using statistical software and depicted using appropriate graphs. Significant variations in scope, population, data sources, time period, and modelling strategies existed across studies along with a high risk of bias. Most of the models were based on Poisson regression. Predicted excess mortality by various models ranged from 1.1 to 9.5 million. The review presents a summary of all the estimates of excess deaths and is important to understand the different strategies used for estimation, and it highlights the importance of data availability, assumptions, and estimates.
+ER  - 
+
+TY  - JOUR
+T1  - Antiviral combination therapies for persistent COVID-19 in immunocompromised patients
+AU  - Focosi, Daniele
+AU  - Maggi, Fabrizio
+AU  - D'Abramo, Alessandra
+AU  - Nicastri, Emanuele
+AU  - Sullivan, David J
+JO  - International Journal of Infectious Diseases
+VL  - 137
+SP  - 55
+EP  - 59
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 1201-9712
+DO  - https://doi.org/10.1016/j.ijid.2023.09.021
+UR  - https://www.sciencedirect.com/science/article/pii/S1201971223007348
+KW  - SARS-CoV-2
+KW  - COVID-19
+KW  - Combination therapies
+KW  - Immunocompromised
+AB  - Objectives
+After the third year of the COVID-19 pandemic, most of the severe COVID-19 burden falls upon immunocompromised patients who cannot mount an endogenous immune response after both vaccination and/or natural infection. They also experience persistent SARS-CoV-2 infection with high viral loads often unsuccessfully managed by the standard antiviral monotherapy regimen initially validated for treatment of COVID-19 immunocompetent patients, only. The off-label prescription of such monotherapy regimens in immunocompromised patients is likely to drive the emergence of treatment-related immune escape, relapses, excess morbidity, and mortality from both COVID-19 and delayed treatment of the underlying disorders. A possible treatment approach to mitigate such consequence is based on combined antiviral therapies.
+Methods
+We searched PubMed for case reports, case series and clinical trials reporting the usage of combined antiviral therapies for COVID-19.
+Results
+In this narrative review, we show that combinations of either small molecule antivirals or small molecule antiviral plus passive immunotherapies are safe and effective in small cohorts reported so far.
+Conclusion
+Considering the progressive loss of efficacy of all authorized anti-spike monoclonal antibodies, promising regimen options are reserved to combinations of small molecule antivirals and COVID-19 convalescent plasma from vaccinated donors.
+ER  - 
+
+TY  - JOUR
+T1  - A comparison of mortality-related risk factors of COVID-19, SARS, and MERS: A systematic review and meta-analysis
+AU  - Lu, Lvliang
+AU  - Zhong, Wenyu
+AU  - Bian, Ziwei
+AU  - Li, Zhiming
+AU  - Zhang, Ke
+AU  - Liang, Boxuan
+AU  - Zhong, Yizhou
+AU  - Hu, Manjiang
+AU  - Lin, Li
+AU  - Liu, Jun
+AU  - Lin, Xi
+AU  - Huang, Yuji
+AU  - Jiang, Junying
+AU  - Yang, Xingfen
+AU  - Zhang, Xin
+AU  - Huang, Zhenlie
+JO  - Journal of Infection
+VL  - 81
+IS  - 4
+SP  - e18
+EP  - e25
+PY  - 2020
+DA  - 2020/10/01/
+SN  - 0163-4453
+DO  - https://doi.org/10.1016/j.jinf.2020.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0163445320304606
+KW  - COVID-19
+KW  - SARS
+KW  - MERS
+KW  - Mortality
+KW  - Risk factors
+KW  - Meta-analysis
+AB  - Summary
+Objective
+Coronavirus Disease 2019 (COVID-19) is a pandemic. This systematic review compares mortality risk factors including clinical, demographic and laboratory features of COVID-19, Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS). The aim is to provide new strategies for COVID-19 prevention and treatment.
+Methods
+We performed a systematic review with meta-analysis, using five databases to compare the predictors of death for COVID-19, SARS and MERS. A random-effects model meta-analysis calculated odds ratios (OR) and 95% confidence intervals (95% CI).
+Results
+845 articles up through 11/4/2020 were retrieved, but only 28 studies were included in this meta-analysis. The results showed that males had a higher likelihood of death than females (OR = 1.82, 95% CI 1.56–2.13). Age (OR = 7.86, 95% CI 5.46–11.29), diabetes comorbidity (OR = 3.73, 95% CI 2.35–5.90), chronic lung disease (OR = 3.43, 95% CI 1.80–6.52) and hypertension (OR = 3.38, 95% CI 2.45–4.67) were the mortality risk factors. The laboratory indicators lactic dehydrogenase (OR = 37.52, 95% CI 24.68–57.03), C-reactive protein (OR = 12.11, 95% CI 5.24–27.98), and neutrophils (OR = 17.56, 95% CI 10.67–28.90) had stronger correlations with COVID-19 mortality than with SARS or MERS mortality. Consolidation and ground-glass opacity imaging features were similar among COVID-19, SARS, and MERS patients.
+Conclusions
+COVID-19′s mortality factors are similar to those of SARS and MERS. Age and laboratory indicators could be effective predictors of COVID-19 mortality outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - COVID-19 mortality and deprivation: pandemic, syndemic, and endemic health inequalities
+AU  - McGowan, Victoria J
+AU  - Bambra, Clare
+JO  - The Lancet Public Health
+VL  - 7
+IS  - 11
+SP  - e966
+EP  - e975
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 2468-2667
+DO  - https://doi.org/10.1016/S2468-2667(22)00223-7
+UR  - https://www.sciencedirect.com/science/article/pii/S2468266722002237
+AB  - Summary
+COVID-19 has exacerbated endemic health inequalities resulting in a syndemic pandemic of higher mortality and morbidity rates among the most socially disadvantaged. We did a scoping review to identify and synthesise published evidence on geographical inequalities in COVID-19 mortality rates globally. We included peer-reviewed studies, from any country, written in English that showed any area-level (eg, neighbourhood, town, city, municipality, or region) inequalities in mortality by socioeconomic deprivation (ie, measured via indices of multiple deprivation: the percentage of people living in poverty or proxy factors including the Gini coefficient, employment rates, or housing tenure). 95 papers from five WHO global regions were included in the final synthesis. A large majority of the studies (n=86) found that COVID-19 mortality rates were higher in areas of socioeconomic disadvantage than in affluent areas. The subsequent discussion reflects on how the unequal nature of the pandemic has resulted from a syndemic of COVID-19 and endemic inequalities in chronic disease burden.
+ER  - 
+
+TY  - JOUR
+T1  - Are people with disabilities at higher risk of COVID-19-related mortality?: a systematic review and meta-analysis
+AU  - Kuper, H.
+AU  - Smythe, T.
+JO  - Public Health
+VL  - 222
+SP  - 115
+EP  - 124
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0033-3506
+DO  - https://doi.org/10.1016/j.puhe.2023.06.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0033350623002202
+KW  - Disability
+KW  - COVID
+KW  - Mortality
+KW  - Review
+AB  - Objectives
+To undertake a systematic review and meta-analysis to estimate the relative risk of COVID-19-related mortality among people with disabilities compared to people without disabilities.
+Study design
+Systematic review and meta-analysis.
+Methods
+We systematically searched four databases from March 1, 2020, to August 15, 2022. We included prospective studies with a baseline assessment of disability and a longitudinal assessment of the COVID-19-related mortality. Two reviewers independently assessed study eligibility, extracted data, and assessed risk of bias. We undertook random-effects meta-analyses to calculate pooled adjusted hazard ratios for COVID-19-related mortality for people with disabilities, also disaggregated by disability type and study setting.
+Results
+We identified 2596 articles throughout the electronic data search, and 56 studies were included in the review. Most (73%) had a moderate risk of bias. The pooled adjusted effect estimate for COVID-19-related mortality in people with disabilities compared to those without was 2.7 (95% confidence interval [CI]: 2.4–3.2). Heterogeneity between the studies was high (τ2 = 0.28, I2 = 97%). Effect estimates were highest for population-based samples (3.3, 95% CI: 2.7–3.9), compared to hospital settings (2.1, 95% CI: 1.7–2.7). Risk was not elevated among people with disabilities in care home settings (1.6, 95% CI: 0.7–3.5). Disaggregation by disability type showed that people with intellectual disabilities were at the highest relative risk of COVID-19 mortality.
+Discussion
+Risk of COVID-19 mortality is elevated among people with disabilities, especially people with intellectual disabilities. Efforts are needed to collect better routine data on disability and to include people with disabilities in the pandemic response for COVID-19.
+ER  - 
+
+TY  - JOUR
+T1  - The impact of air pollution on COVID-19 incidence, severity, and mortality: A systematic review of studies in Europe and North America
+AU  - Hernandez Carballo, Ireri
+AU  - Bakola, Maria
+AU  - Stuckler, David
+JO  - Environmental Research
+VL  - 215
+SP  - 114155
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0013-9351
+DO  - https://doi.org/10.1016/j.envres.2022.114155
+UR  - https://www.sciencedirect.com/science/article/pii/S0013935122014827
+KW  - Air pollution
+KW  - Particulate matter
+KW  - Nitrogen dioxide
+KW  - Ozone
+KW  - Pollutants
+KW  - COVID-19
+KW  - Pandemic
+KW  - Respiratory health
+AB  - Background
+Air pollution is speculated to increase the risks of COVID-19 spread, severity, and mortality.
+Objectives
+We systematically reviewed studies investigating the relationship between air pollution and COVID-19 cases, non-fatal severity, and mortality in North America and Europe.
+Methods
+We searched PubMed, Web of Science, and Scopus for studies investigating the effects of harmful pollutants, including particulate matter with diameter ≤2.5 or 10 μm (PM2.5 or PM10), ozone (O3), nitrogen dioxide (NO2), sulfur dioxide (SO2) and carbon monoxide (CO), on COVID-19 cases, severity, and deaths in Europe and North America through to June 19, 2021. Articles were included if they quantitatively measured the relationship between exposure to air pollution and COVID-19 health outcomes.
+Results
+From 2,482 articles screened, we included 116 studies reporting 355 separate pollutant-COVID-19 estimates. Approximately half of all evaluations on incidence were positive and significant associations (52.7%); for mortality the corresponding figure was similar (48.1%), while for non-fatal severity this figure was lower (41.2%). Longer-term exposure to pollutants appeared more likely to be positively associated with COVID-19 incidence (63.8%). PM2.5, PM10, O3, NO2, and CO were most strongly positively associated with COVID-19 incidence, while PM2.5 and NO2 with COVID-19 deaths. All studies were observational and most exhibited high risk of confounding and outcome measurement bias.
+Discussion
+Air pollution may be associated with worse COVID-19 outcomes. Future research is needed to better test the air pollution-COVID-19 hypothesis, particularly using more robust study designs and COVID-19 measures that are less prone to measurement error and by considering co-pollutant interactions.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of COVID-19 Infection on Clinical Outcomes Among Patients With Acute Decompensated Heart Failure: A Nationwide Analysis
+AU  - Fatuyi, Michael
+AU  - Amoah, Joseph
+AU  - Egbuchiem, Henry
+AU  - Antia, Akanimo
+AU  - Akinti, Segun
+AU  - Mararenko, Anton
+AU  - Alzamara, Muayad
+AU  - Bhatia, Ankit
+JO  - Current Problems in Cardiology
+VL  - 48
+IS  - 11
+SP  - 101908
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0146-2806
+DO  - https://doi.org/10.1016/j.cpcardiol.2023.101908
+UR  - https://www.sciencedirect.com/science/article/pii/S0146280623003250
+AB  - Heart Failure (HF) is a common comorbidity in the United state. COVID-19 infection has shown worse clinical outcomes among heart failure patients; however, there is limited evidence on the impact of COVID-19 infection on the subset of HF. Hence, we aimed to investigate the clinical outcomes in patients hospitalized with COVID-19 infection without HF vs concomitant COVID-19 infection with Acute Decompensated Heart Failure with Preserved Ejection Fraction (AD-HFpEF) vs concomitant COVID-19 Infection with Acute Decompensated Heart Failure with Reduced Ejection Fraction (AD-HFrEF) using a large dataset illustrating a real word analysis. A retrospective study design of hospitalizations using the National Inpatient Sample (NIS) database registry 2020 with a principal diagnosis of adult patients (≥18 years) hospitalized with COVID-19 infection as principal diagnosis using ICD-10 codes stratified to COVID-19 infection without HF vs COVID-19 infection with AD-HFpEF vs COVID-19 infection with AD-HFrEF. The primary outcome was in-hospital mortality. Multivariate logistic, linear, poisson, and Cox regression models were used for analysis. A P-value < 0.05 was considered statistically significant. A total of 1,050,045 COVID-19 infection cases were included in this study, out of which 1,007,860 (98.98%) had only COVID-19 infection without HF, while 20,550 (1.96%) had COVID-19 infection with Acute Decompensated HFpEF, and 21,675 (2.06%) had COVID-19 infection with Acute Decompensated HFrEF. Our study shows that patients with COVID-19 infection and AD-HFrEF had the highest in-hospital mortality rate (25.4%). Using COVID-19 infection without HF with a mortality of 10.6% as a reference, COVID-19 infection with AD-HFpEF with a 22.5% mortality rate (95% CI 2.3-2.6, aOR; 2.4) and COVID-19 infection with AD-HFrEF with 25.4% mortality rate (95% CI 2.7-3.1, aOR; 2.9). Acute Decompensated HF with concurrent COVID-19 infection is associated with higher in-hospital mortality, with higher in-hospital mortality outcome observed among COVID 19 infection with concurrent AD-HFrEF.
+ER  - 
+
+TY  - JOUR
+T1  - Living with COVID-19 and preparing for future pandemics: revisiting lessons from the HIV pandemic
+AU  - Auerbach, Judith D
+AU  - Forsyth, Andrew D
+AU  - Davey, Calum
+AU  - Hargreaves, James R
+JO  - The Lancet HIV
+VL  - 10
+IS  - 1
+SP  - e62
+EP  - e68
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 2352-3018
+DO  - https://doi.org/10.1016/S2352-3018(22)00301-0
+UR  - https://www.sciencedirect.com/science/article/pii/S2352301822003010
+AB  - Summary
+In April, 2020, just months into the COVID-19 pandemic, an international group of public health researchers published three lessons learned from the HIV pandemic for the response to COVID-19, which were to: anticipate health inequalities, create an enabling environment to support behavioural change, and engage a multidisciplinary effort. We revisit these lessons in light of more than 2 years’ experience with the COVID-19 pandemic. With specific examples, we detail how inequalities have played out within and between countries, highlight factors that support or impede the creation of enabling environments, and note ongoing issues with the scarcity of integrated science and health system approaches. We argue that to better apply lessons learned as the COVID-19 pandemic matures and other infectious disease outbreaks emerge, it will be imperative to create dialogue among polarised perspectives, identify shared priorities, and draw on multidisciplinary evidence.
+ER  - 
+
+TY  - JOUR
+T1  - Cardiovascular Health Care Implications of the COVID-19 pandemic
+AU  - Raisi-Estabragh, Zahra
+AU  - Mamas, Mamas A.
+JO  - Heart Failure Clinics
+VL  - 19
+IS  - 2
+SP  - 265
+EP  - 272
+PY  - 2023
+DA  - 2023/04/01/
+T2  - Covid-19
+SN  - 1551-7136
+DO  - https://doi.org/10.1016/j.hfc.2022.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1551713622000629
+KW  - COVID-19
+KW  - Cardiovascular disease
+KW  - Health care provision
+KW  - Health inequalities
+KW  - Population health
+ER  - 
+
+TY  - JOUR
+T1  - Heart Failure with Reduced Ejection Fraction and COVID-19, when the Sick Get Sicker: Unmasking Racial and Ethnic Inequities During a Pandemic
+AU  - Contreras, Johanna
+AU  - Tinuoye, Elizabeth O.
+AU  - Folch, Alejandro
+AU  - Aguilar, Jose
+AU  - Free, Kendall
+AU  - Ilonze, Onyedika
+AU  - Mazimba, Sula
+AU  - Rao, Roopa
+AU  - Breathett, Khadijah
+JO  - Cardiology Clinics
+VL  - 41
+IS  - 4
+SP  - 491
+EP  - 499
+PY  - 2023
+DA  - 2023/11/01/
+T2  - Heart Failure with Reduced Ejection Fraction
+SN  - 0733-8651
+DO  - https://doi.org/10.1016/j.ccl.2023.06.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0733865123000620
+KW  - COVID-19
+KW  - Heart failure
+KW  - Racial disparities
+KW  - Ethnic disparities
+ER  - 
+
+TY  - JOUR
+T1  - Type 1 and Covid-19: Diagnosis, Clinical Care, and Health Outcomes during the Pandemic
+AU  - Breidbart, Emily
+AU  - Gallagher, Mary Pat
+JO  - Endocrinology and Metabolism Clinics of North America
+PY  - 2023
+DA  - 2023/11/28/
+SN  - 0889-8529
+DO  - https://doi.org/10.1016/j.ecl.2023.11.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0889852923000853
+KW  - COVID-19 telehealth
+KW  - Type 1 diabetes disparities
+KW  - Diabetes technology pandemic
+KW  - Remote monitoring health care delivery
+ER  - 
+
+TY  - JOUR
+T1  - Year 3 of COVID-19: Harsh Truths, Brutal Realities, and Glimmers of Hope
+AU  - Poland, Gregory A.
+AU  - Issa, Meltiady
+AU  - Sundsted, Karna
+JO  - Mayo Clinic Proceedings
+VL  - 97
+IS  - 12
+SP  - 2324
+EP  - 2332
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0025-6196
+DO  - https://doi.org/10.1016/j.mayocp.2022.10.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0025619622006139
+AB  - Severe acute respiratory syndrome coronavirus 2, the virus causing coronavirus disease 2019 (COVID-19), has now killed 1 of every 303 Americans. Whereas 4 vaccines are approved in the United States and masks are widely available, too few are fully immunized and most of the population has stopped wearing protective masks. The ongoing consequences of this include continued excess morbidity and mortality and the generation of immune-evading variants and subvariants, which in toto are injurious and ultimately self-defeating. Herein we briefly update and review COVID-19 vaccines, waning immunity, and new variants.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of the COVID-19 Pandemic on Cardiovascular Health in 2020: JACC State-of-the-Art Review
+AU  - Roth, Gregory A.
+AU  - Vaduganathan, Muthiah
+AU  - Mensah, George A.
+JO  - Journal of the American College of Cardiology
+VL  - 80
+IS  - 6
+SP  - 631
+EP  - 640
+PY  - 2022
+DA  - 2022/08/09/
+SN  - 0735-1097
+DO  - https://doi.org/10.1016/j.jacc.2022.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0735109722053116
+KW  - burden of disease
+KW  - COVID-19
+KW  - hospital outcomes
+KW  - population health
+AB  - The impact of COVID-19 on the burden of cardiovascular diseases (CVD) during the early pandemic remains unclear. COVID-19 has become one of the leading causes of global mortality, with a disproportionate impact on persons with CVD. Studies of health facility admissions for CVD found significant decreases during the pandemic. Studies of hospital mortality for CVD were more variable. Studies of population-level CVD mortality differed across countries, with most showing decreases, although some revealed increases in deaths. In some countries where large increases in CVD deaths were reported in vital registration systems, misclassification of COVID-19 as CVD may have occurred. Taken together, studies suggest heterogeneous effects of the COVID-19 pandemic on CVD without large increases in CVD mortality in 2020 for a number of countries. Clinical and population science research is needed to examine the ways in which the pandemic has affected CVD burden.
+ER  - 
+
+TY  - JOUR
+T1  - The Effect of COVID-19 on Dual-Eligible Beneficiaries: A Scoping Review
+AU  - Marks, Sarah J.
+AU  - Davoodi, Natalie M.
+AU  - Felton, Robbie
+AU  - Rothberg, Alexander
+AU  - Goldberg, Elizabeth M.
+JO  - Journal of the American Medical Directors Association
+VL  - 24
+IS  - 10
+SP  - 1565
+EP  - 1572
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 1525-8610
+DO  - https://doi.org/10.1016/j.jamda.2023.08.007
+UR  - https://www.sciencedirect.com/science/article/pii/S1525861023007168
+KW  - Dual-eligible
+KW  - Medicaid
+KW  - Medicare
+KW  - COVID-19
+KW  - health care utilization
+KW  - disparities
+KW  - quality of life
+AB  - Objectives
+To examine the impact of COVID-19 on clinical health outcomes and health-related social needs among Medicaid-Medicare dual-eligible beneficiaries.
+Design
+Scoping review.
+Setting and Participants
+Dual eligibles during COVID-19.
+Methods
+We performed a comprehensive scoping review including observational studies, clinical trials, and original empirical research studies of PubMed and CINAHL. We generated a list of terms related to programs that both serve dual eligibles and address our desired outcomes. With the assistance of a medical librarian, we identified relevant abstracts published during COVID-19 meeting our inclusion criteria. We performed full-text reviews of relevant abstracts and selected the final studies. We extracted the study population, design, and major findings, then conducted thematic analysis.
+Results
+1100 articles were identified, with 439 deemed relevant. On full text-review, 15 articles met inclusion criteria representing more than 86 million Medicare beneficiaries. No studies were specific only to dual eligibles. Topic areas included in this review include COVID-19 case counts (2 articles), mortality (8 articles), hospitalizations (7 articles), food insecurity (1 article), self-reported mental health (1 article), and social connectedness (2 articles). Dual eligibles had disparate COVID-19–related outcomes from Medicare-only enrollees in 12 of 15 studies. Studies show higher mortality for dual eligibles overall, but this was not true for dual eligibles in nursing homes and assisted living communities. Dual eligibles were more likely to experience food insecurity. More favorably, dual eligibles reported greater social connectedness.
+Conclusions and Implications
+Dual eligibles had different outcomes from Medicare-only recipients in multiple health outcomes and health-related social needs during COVID-19, but studies are limited, particularly in terms of health-related social needs. Future work focusing on outcomes only among dual-eligible beneficiaries, integrated care programs, and fiscal alignment between Medicare and Medicaid plans may help stakeholders address health needs specific to dual eligibles.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of COVID-19 on risks and deaths of non-communicable diseases in the Western Pacific region
+AU  - Xu, Xiaoyue
+AU  - Shi, Zumin
+AU  - Zhou, Lihui
+AU  - Lin, Jing
+AU  - Atlantis, Evan
+AU  - Chen, Xinguang
+AU  - Hussain, Akhtar
+AU  - Wang, Youfa
+AU  - Wang, Yaogang
+JO  - The Lancet Regional Health - Western Pacific
+SP  - 100795
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 2666-6065
+DO  - https://doi.org/10.1016/j.lanwpc.2023.100795
+UR  - https://www.sciencedirect.com/science/article/pii/S266660652300113X
+KW  - COVID-19
+KW  - NCDs
+KW  - Mortality
+KW  - Western Pacific region
+AB  - Summary
+Countries and areas in the Western Pacific region (WPR) experienced the COVID-19 pandemic and took various preventive measures, which affected non-communicable diseases (NCDs) risks and mortality. Due to differences in COVID-19 prevention measures and other characteristics such as culture, religions, political systems, socioeconomic development, lifestyles, and health care systems, the effects of COVID-19 on NCDs varied greatly among WPR countries. Most countries had an increased all-cause and NCDs mortality during the pandemic, but some developed countries, including New Zealand, Singapore and Australia reported decreased mortality. The pandemic and the preventive measures increased NCD risk factors including unhealthy diet, lack of physical activity and sleep disorders. The effects varied by socioeconomic status and health conditions. COVID-19 related stress, food shortages, and confined lifestyle had immediate detrimental effects on NCDs, and also affected pregnancy outcomes with long-term effects on NCDs risks in coming years.
+ER  - 
+
+TY  - JOUR
+T1  - Achieving COVID-19 zero without lockdown, January 2020 to March 2022: The Taiwan model explained
+AU  - Chen, Yi-Hsuan
+AU  - Fang, Chi-Tai
+JO  - Journal of the Formosan Medical Association
+PY  - 2023
+DA  - 2023/09/14/
+SN  - 0929-6646
+DO  - https://doi.org/10.1016/j.jfma.2023.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0929664623003455
+KW  - COVID-19 zero
+KW  - Model
+KW  - Taiwan
+KW  - Containment
+AB  - Despite never imposing a lockdown, Taiwan achieved COVID-19 zero, with reporting only 56 local coronavirus disease 2019 (COVID-19) cases after testing 126,987 individuals in 2020, and further contained a large outbreak rapidly and successfully in 2021. At the onset of the COVID-19 pandemic, our infectious disease modeling results indicated that testing and contact tracing alone would fail to contain the pandemic. However, by supplementing this approach with general public surgical mask-wearing, the reproduction number (R0) could be suppressed to less than 1. This would effectively contain the virus's spread within Taiwan, particularly when combined with strict border control measures to prevent the overwhelming influx of imported COVID-19 cases and ensure the capacity of the medical and public health systems remains resilient. These modeling results became the theoretical basis behind the highly successful Taiwan model against COVID-19 during 2020–2021, supporting by negative excess mortality, seroepidemiological surveys, and molecular epidemiological analyses. This is a public health triumph demonstrating that a democratic and humane approach to the COVID-19 pandemic is not only feasible but highly effective. It also highlights the crucial role of infectious disease modeling in assisting the formulation of a successful national pandemic response.
+ER  - 
+
+TY  - JOUR
+T1  - Fever: Could A Cardinal Sign of COVID-19 Infection Reduce Mortality?
+AU  - Cann, Stephen A Hoption
+JO  - The American Journal of the Medical Sciences
+VL  - 361
+IS  - 4
+SP  - 420
+EP  - 426
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0002-9629
+DO  - https://doi.org/10.1016/j.amjms.2021.01.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0002962921000045
+KW  - COVID-19
+KW  - Antipyretics
+KW  - Fever
+KW  - Fluid management
+KW  - Nutrition
+AB  - With mortality rising from the COVID-19 pandemic, we may be overlooking a key aspect of the immunological response. Fever is a cardinal sign of this rampant infection; however, little attention has been paid towards how a fever may work in our favor in overcoming this disease. Three key aspects of patient care – fever, fluid, and food – can be harmonized to overcome COVID-19 infection. Both animal and human studies have demonstrated that fever suppression during viral infections, either through low ambient temperatures or antipyretic use, may increase morbidity and prolong the illness. As fever rises, so do antidiuretic hormone levels, leading to solute-free water retention – making conservative fluid management essential. Finally, fever inhibits gastrointestinal function as energy is reallocated to the immunological response, underscoring the need to work in concert with these physiological changes. An opportunity awaits to investigate this natural barrier to infection, let us not pass it by.
+ER  - 
+
+TY  - JOUR
+T1  - The impacts of COVID-19 on immigrants and the healthy immigrant effect: Reflections from Canada
+AU  - Vang, Zoua M.
+AU  - Ng, Edward
+JO  - Preventive Medicine
+VL  - 171
+SP  - 107501
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0091-7435
+DO  - https://doi.org/10.1016/j.ypmed.2023.107501
+UR  - https://www.sciencedirect.com/science/article/pii/S0091743523000816
+KW  - COVID-19
+KW  - Healthy immigrant effect
+KW  - Refugees
+KW  - Canada
+KW  - Population health
+AB  - Discussions about potential long-term health consequences of the COVID-19 pandemic on immigrant health and the healthy immigrant effect (HIE) remain unaddressed. Drawing on Canada as a case study, we summarize the primary and secondary impacts of COVID-19 on immigrants. We find that recent and female immigrants as well refugees have fared far worse than either their more established and male counterparts or the Canadian-born population. We then discuss how COVID-19 might influence (or weaken) immigrants' previously documented health advantage. We highlight two structural conditions induced by the pandemic that may alter the health profile of immigrants; namely, immigration policy and delayed medical treatments. Reflections on the requisite data for monitoring and tracking the overall impact of COVID-19 on immigrants' health are included. Finally, we conclude with a discussion of the Canadian patterns and its potential relevance to immigrants and the HIE in the United States.
+ER  - 
+
+TY  - JOUR
+T1  - Hospitalization, major complications and mortality in acute myocardial infarction patients during the COVID-19 era: A systematic review and meta-analysis
+AU  - Pourasghari, Hamid
+AU  - Tavolinejad, Hamed
+AU  - Soleimanpour, Samira
+AU  - Abdi, Zhaleh
+AU  - Arabloo, Jalal
+AU  - Bragazzi, Nicola Luigi
+AU  - Behzadifar, Masoud
+AU  - Rashedi, Sina
+AU  - Omidi, Negar
+AU  - Ayoubian, Ali
+AU  - Tajdini, Masih
+AU  - Ghorashi, Seyyed Mojtaba
+AU  - Azari, Samad
+JO  - IJC Heart & Vasculature
+VL  - 41
+SP  - 101058
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 2352-9067
+DO  - https://doi.org/10.1016/j.ijcha.2022.101058
+UR  - https://www.sciencedirect.com/science/article/pii/S2352906722001075
+KW  - COVID-19
+KW  - SARS-CoV2
+KW  - Acute myocardial Infarction
+KW  - Systematic review
+KW  - Meta-analysis
+AB  - Since the SARS-CoV-2 pandemic began, numerous studies have reported a concerning drop in the number of acute myocardial infarction (AMI) admissions. In the present systematic review and meta-analysis, we aimed to compare the rate of AMI admissions and major complication during the pandemic, in comparison with pre-pandemic periods. Three major databases (PubMed, Scopus, and Web of Science Core Collection) were searched. Out of 314 articles, 41 were entered into the study. Patients hospitalized for AMI were 35% less in the COVID-19 era compared with pre-pandemic periods, which was statistically significantly (OR = 0.65; 95% CI: 0.56–0.74; I2 = 99%; p < 0.001; 28 studies). Patients hospitalized for STEMI and NSTEMI were 29% and 34% respectively less in the COVID-19 era compared with periods before COVID-19, which was statistically significantly (OR = 0.71; 95% CI: 0.65 –0.78; I2 = 93%; p < 0.001; 22 studies, OR = 0.66; 95% CI: 0.58–0.73; I2 = 95%; p < 0.001; 14 studies). The overall rate of in-hospital mortality in AMI patients increased by 26% in the COVID-19 era, which was not statistically significant (OR = 1.26; 95% CI: 1.0–1.59; I2 = 22%; p < 0.001; six studies). The rate of in-hospital mortality in STEMI and NSTEMI patients increased by 15% and 26% respectively in the COVID-19 era, which was not statistically significant (OR = 1.15; 95% CI: 0.85–1.57; I2 = 48%; p = 0.035; 11 studies, OR = 1.35; 95% CI: 0.64–2.86; I2 = 45%; p = 0.157; 3 articles). These observations highlight the challenges in the adaptation of health-care systems with the impact of the COVID-19 pandemic.
+ER  - 
+
+TY  - JOUR
+T1  - Molecular and pro-inflammatory aspects of COVID-19: The impact on cardiometabolic health
+AU  - Lo Presti, Elena
+AU  - Nuzzo, Domenico
+AU  - Al Mahmeed, Wael
+AU  - Al-Rasadi, Khalid
+AU  - Al-Alawi, Kamila
+AU  - Banach, Maciej
+AU  - Banerjee, Yajnavalka
+AU  - Ceriello, Antonio
+AU  - Cesur, Mustafa
+AU  - Cosentino, Francesco
+AU  - Firenze, Alberto
+AU  - Galia, Massimo
+AU  - Goh, Su-Yen
+AU  - Janez, Andrej
+AU  - Kalra, Sanjay
+AU  - Kapoor, Nitin
+AU  - Kempler, Peter
+AU  - Lessan, Nader
+AU  - Lotufo, Paulo
+AU  - Papanas, Nikolaos
+AU  - Rizvi, Ali A.
+AU  - Sahebkar, Amirhossein
+AU  - Santos, Raul D.
+AU  - Stoian, Anca P.
+AU  - Toth, Peter P.
+AU  - Viswanathan, Vijay
+AU  - Rizzo, Manfredi
+JO  - Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease
+VL  - 1868
+IS  - 12
+SP  - 166559
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0925-4439
+DO  - https://doi.org/10.1016/j.bbadis.2022.166559
+UR  - https://www.sciencedirect.com/science/article/pii/S0925443922002307
+KW  - COVID
+KW  - Molecular
+KW  - Inflammation
+KW  - Diabetes
+KW  - Cardiometabolic
+AB  - Obesity, type 2 diabetes (T2DM), hypertension (HTN), and Cardiovascular Disease (CVD) often cluster together as “Cardiometabolic Disease” (CMD). Just under 50% of patients with CMD increased the risk of morbidity and mortality right from the beginning of the COVID-19 pandemic as it has been reported in most countries affected by the SARS-CoV2 virus. One of the pathophysiological hallmarks of COVID-19 is the overactivation of the immune system with a prominent IL-6 response, resulting in severe and systemic damage involving also cytokines such as IL2, IL4, IL8, IL10, and interferon-gamma were considered strong predictors of COVID-19 severity. Thus, in this mini-review, we try to describe the inflammatory state, the alteration of the adipokine profile, and cytokine production in the obese state of infected and not infected patients by SARS-CoV2 with the final aim to find possible influences of COVID-19 on CMD and CVD. The immunological-based discussion of the molecular processes could inspire the study of promising targets for managing CMD patients and its complications during COVID-19.
+ER  - 
